@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+ul {
+  display: inline-block; 
+  text-align: left; 
+}
+ol {
+  display: inline-block; 
+  text-align: left; 
+  margin: 0 auto;
+}
+img {
+    border-radius: 50%;
+}
